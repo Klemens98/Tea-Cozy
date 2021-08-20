@@ -4,6 +4,7 @@ font-size: 22px;
 color:seashell;
 opacity: 0.9;
 text-align: center;
+margin: 0px;
 }
 
 body{
@@ -85,7 +86,7 @@ header{
 
 .location {
     justify-content: center;
-    margin-right: 40px;
+    margin: 10px 40px 10px 40px;
     background-color: black;
     display: flex; 
     flex-direction: column;
